@@ -21,3 +21,10 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 ##### Other places
 - 📖 [Minecraft Wiki (ZH)](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
 - 🌍 [Minecraft](https://crowdin.com/project/minecraft) (Chinese translation)
+
+#### PGP Key
+See my public key [here](https://github.com/dianliang233/dianliang233/blob/master/public-key.txt).
+
+----------------------
+
+![@Dianliang233](https://github-readme-stats.vercel.app/api?username=dianliang233&show_icons=true&theme=tokyonight)
