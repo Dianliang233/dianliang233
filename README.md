@@ -10,7 +10,7 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
 #### Contact
-- Via E-mail: [dianliang233@gmail.com](mailto:dianliang233@gmail.com) or [dianliang233@qq.com](mailto:dianliang233@qq.com)
+- Via E-mail: [dianliang233(at)gmail.com](mailto:dianliang233@gmail.com) or [dianliang233(at)qq.com](mailto:dianliang233@qq.com)
 - Via GitHub issues: [New issue · dianliang233/dianliang233](https://github.com/dianliang233/dianliang233/issues/new)
 - Via [QQ](https://im.qq.com): 2917830075
 - Via [Discord](https://discord.com): Dianliang233#8468
