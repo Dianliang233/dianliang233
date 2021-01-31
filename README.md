@@ -17,22 +17,14 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 - Via [Telegram](https://telegram.org): [@Dianliang233](https://t.me/Dianliang233)
 
 #### Contribution
+- Active editor - [Minecraft Wiki (ZH)](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
+- Simplified Chinese translator and founder of Classical Chinese translation project - [Minecraft](https://crowdin.com/project/minecraft)
+- Frontend engineer and co-founder - [Teahouse Studios](https://github.com/Teahouse-Studios)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teahouse-Studios&repo=mcwzh-meme-resourcepack&show_owner=false)](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teahouse-Studios&repo=mcwzh-meme-resourcepack-bedrock&show_owner=false)](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack-bedrock)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dianliang233&repo=minecraft-lzh&show_owner=false)](https://github.com/dianliang233/minecraft-lzh)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dragon-Fish&repo=InPageEdit-v2&show_owner=true)](https://github.com/Dragon-Fish/InPageEdit-v2)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dianliang233&repo=lxazl&show_owner=false)](https://github.com/dianliang233/lxazl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Markus-Rost&repo=discord-wiki-bot&show_owner=true)](https://github.com/Markus-Rost/discord-wiki-bot)<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teahouse-Studios&repo=_LittleK_&show_owner=false)](https://github.com/Teahouse-Studios/_LittleK_)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Teahouse-Studios&repo=bot&show_owner=false)](https://github.com/Teahouse-Studios/bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ff98sha&repo=mclangcn&show_owner=true)](https://github.com/ff98sha/mclangcn)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jellysquid3&repo=sodium-fabric&show_owner=true)](https://github.com/jellysquid3/sodium-fabric)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianliang233&layout=compact)
-
-##### Other places
-- 📖 [Minecraft Wiki (ZH)](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
-- 🌍 [Minecraft](https://crowdin.com/project/minecraft) (Chinese translation)
+##### Other translation projects
+- [Sodium - optimization mod for the Minecraft client (zh-cn)](https://github.com/jellysquid3/sodium-fabric)
+- [Wiki-Bot - a Discord bot for easily linking and searching MediaWiki sites  (zh-cn)](https://github.com/Markus-Rost/discord-wiki-bot)
+- [MCLangCN - An optimised Chinese Simplified translation for Minecraft Bedrock Edition (zh-cn)](https://github.com/ff98sha/mclangcn)
 
 #### PGP Key
 See my public key [here](https://github.com/dianliang233/dianliang233/blob/master/public-key.txt).
