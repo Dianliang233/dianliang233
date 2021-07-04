@@ -18,6 +18,8 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 
 #### Contribution
 - Active editor - [Minecraft Wiki (ZH)](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
+- Member of Fandom [Chinese Pre-volunteering Team (PVT-ZH)](https://community.fandom.com/zh/wiki/ZHCC:PVT/en)
+- Crew - [Fandom Chinese Community Central](https://community.fandom.com/zh/)
 - Simplified Chinese translator and founder of Classical Chinese translation project - [Minecraft](https://crowdin.com/project/minecraft)
 - Frontend engineer and co-founder - [Teahouse Studios](https://github.com/Teahouse-Studios)
 
@@ -25,9 +27,6 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 - [Sodium - optimization mod for the Minecraft client (zh-cn)](https://github.com/jellysquid3/sodium-fabric)
 - [Wiki-Bot - a Discord bot for easily linking and searching MediaWiki sites  (zh-cn)](https://github.com/Markus-Rost/discord-wiki-bot)
 - [MCLangCN - An optimised Chinese Simplified translation for Minecraft Bedrock Edition (zh-cn)](https://github.com/ff98sha/mclangcn)
-
-#### PGP Key
-See my public key [here](https://github.com/dianliang233/dianliang233/blob/master/public-key.txt).
 
 ----------------------
 
