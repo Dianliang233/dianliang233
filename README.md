@@ -4,17 +4,11 @@
 
 I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
 #### Contact
 - Via E-mail: [dianliang233(at)gmail.com](mailto:dianliang233@gmail.com) or [dianliang233(at)qq.com](mailto:dianliang233@qq.com)
 - Via GitHub issues: [New issue · dianliang233/dianliang233](https://github.com/dianliang233/dianliang233/issues/new)
 - Via [QQ](https://im.qq.com): 2917830075
-- Via [Discord](https://discord.com): Dianliang233#8468
-- Via [Telegram](https://telegram.org): [@Dianliang233](https://t.me/Dianliang233)
+- Via [Discord](https://discord.com): dianliang233
 
 #### Contribution
 - Active editor - [Minecraft Wiki (ZH)](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)
