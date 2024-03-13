@@ -1,3 +1,4 @@
+<!--
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Hi there 👋
@@ -23,6 +24,7 @@ I'm ⚡️ **Dianliang233**, a 📖 **student** from 🇨🇳 China.
 - [MCLangCN - An optimised Chinese Simplified translation for Minecraft Bedrock Edition (zh-cn)](https://github.com/ff98sha/mclangcn)
 
 ----------------------
+-->
 
 ![@Dianliang233](https://github-readme-stats.vercel.app/api?username=dianliang233&count_private=true&show_icons=true&theme=tokyonight)
 
